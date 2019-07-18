@@ -13,7 +13,7 @@ Run the regular container
 docker run -it --rm -v ~/w205:/w205 midsw205/base:latest bash
 ```
 
-What containers are running right now?
+What containers are running right now? (on 2nd command line)
 ```
 docker ps
 ```
